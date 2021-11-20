@@ -18,7 +18,7 @@ Unfortunately, the game is only available in Russian language. I haven't thought
 
 The game has a simple click sound which plays when another piece of puzzle is placed correctly. This can be disabled in the settings.
 
-The “excursion” mode was made to link this game with another part of my school project which was a website about Picasso art.
+The “excursion” mode was made to link this game with another part of my school project which was [a website about Picasso art](http://q90612fo.bget.ru/picasso/).
 
 # License
 
